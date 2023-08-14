@@ -1,3 +1,5 @@
+# Todo List
+
 This is a project for a todo list.
 
 1. The user is suppose to write in the input field and press a submit button,
